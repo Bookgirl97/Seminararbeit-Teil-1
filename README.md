@@ -7,3 +7,7 @@ Wenn im Menü nun der Punkt (K)onvertieren ausgewählt wird, werden die Informat
 Eine/Ein MitarbeiterIn sieht nun wo sie/er das richtige Buch finden kann. 
 Sofern dieses Buch verfügbar ist, kann das Buch an der angegebenen Stelle entnommen
 und schließlich verkauft werden. 
+
+Link: https://github.com/Bookgirl97/Seminararbeit-Teil-1
+Name: Seminararbeit-Teil-1
+Benutzername: Bookgirl97

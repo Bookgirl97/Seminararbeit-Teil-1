@@ -1,0 +1,36 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT buecherliste (buecher)+>
+<!ATTLIST buecherliste
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT buecher (Autor,buecheranzahl,Verlag,Einzelpreis,beschreibung)>
+<!ATTLIST buecher 
+   xmlns CDATA #FIXED ''
+  id CDATA #REQUIRED>
+
+<!ELEMENT Autor (#PCDATA)>
+<!ATTLIST Autor
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT buecheranzahl (buch)+>
+<!ATTLIST buecheranzahl
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Verlag (#PCDATA)>
+<!ATTLIST Verlag
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Einzelpreis (#PCDATA)>
+<!ATTLIST Einzelpreis
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT beschreibung (#PCDATA)>
+<!ATTLIST beschreibung
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT buch (#PCDATA)>
+<!ATTLIST buch
+  xmlns CDATA #FIXED ''
+  sprache NMTOKEN #REQUIRED>
+

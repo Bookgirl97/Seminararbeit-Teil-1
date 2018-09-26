@@ -1,0 +1,46 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+ <buecherliste>
+  
+    <buecher id='1'> 
+    <Autor>Maggie Stiefvater</Autor>
+    <buecheranzahl>
+     <buch sprache='de'>Nach dem Sommer</buch>
+	  <buch sprache='de'>Kommt das Licht</buch>
+      <buch sprache='de'>In deinen Augen</buch>
+    </buecheranzahl> 
+    <Verlag>script5</Verlag>
+	<Einzelpreis>9.95€</Einzelpreis>
+    <beschreibung>Jeden Winter wartet Grace darauf, dass die Wölfe nach Mercy Falls zurückkehren</beschreibung>
+  </buecher>
+  
+<buecher id='2'>
+    <Autor>Kai Meyer</Autor>
+    <buecheranzahl>
+     <buch sprache='de'>Seelenbuch</buch>
+	  <buch sprache='de'>Nachtland</buch>
+      <buch sprache='de'>Blutbuch</buch>
+    </buecheranzahl> 
+    <Verlag>Spiegel</Verlag>
+	<Einzelpreis>19.99€</Einzelpreis>
+    <beschreibung>Es geht um die Welt der Bibliomanten</beschreibung>
+  </buecher>
+  
+<buecher id='3'>
+    <Autor>Jane Austen</Autor>
+    <buecheranzahl>
+     <buch sprache='de'>Stolz und Vorurteil</buch>
+    </buecheranzahl> 
+    <Verlag>Penguin Verlag</Verlag>
+	<Einzelpreis>10.00€</Einzelpreis>
+    <beschreibung>Nicht weniger als fünf Töchter haben die Bennets standesgemäß unter die Haube zu bringen</beschreibung>
+  </buecher>
+	    <buecher id='4'>
+         <Autor>Ursula Poznanski</Autor>
+		 <buecheranzahl>
+	        <buch sprache='deutsch'>Aquila</buch>
+			</buecheranzahl>
+		<Verlag>Loewe</Verlag>
+	<Einzelpreis>16.95€</Einzelpreis>
+    <beschreibung>Ohne Erinnerung an die letzten zwei Tage streift die Studentin Nika durch Siena</beschreibung>
+      </buecher>
+</buecherliste>
